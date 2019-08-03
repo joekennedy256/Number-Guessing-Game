@@ -18,7 +18,4 @@ else if(Number(guess) > secretNumber) {
 }
 else {
     alert("Too low. Guess again!")
-
-}
-
 }
