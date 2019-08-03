@@ -14,11 +14,7 @@ if(Number(guess) === secretNumber) {
 //otherwise, you got it wrong
 else if(Number(guess) > secretNumber) {
     alert("Too high. Guess again!")
- var stringGuess = prompt("Guess a number");
-var guess = Number(stringGuess);
 }
 else {
     alert("Too low. Guess again!")
- var stringGuess = prompt("Guess a number");
-var guess = Number(stringGuess);
 }
