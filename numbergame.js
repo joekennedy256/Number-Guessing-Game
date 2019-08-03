@@ -14,9 +14,11 @@ if(Number(guess) === secretNumber) {
 //otherwise, you got it wrong
 else if(Number(guess) > secretNumber) {
     alert("Too high. Guess again!")
+
 }
 else {
     alert("Too low. Guess again!")
+
 }
 
 }
