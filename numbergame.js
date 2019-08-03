@@ -22,3 +22,5 @@ else {
  var stringGuess = prompt("Guess a number");
 var guess = Number(stringGuess);
 }
+goto guess;
+}
